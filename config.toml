@@ -1,3 +1,22 @@
 baseurl = "http://ye-lin-aung.github.io/projects/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+
+[params]
+# Meta
+title = "Mine"
+subtitle = "Project Show Case."
+
+author = "Ye lin aung"
+description = "Project showcase using gohugo.io"
+keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts,yelinaung,yelinaung projects,android developer,ye,lin,aung"
+
+# Body background color
+bodybgcolor = "#f9f9f9"
+
+# Preview container button text
+buttontext = "Thanks for coming!"
+
+# Footer text
+footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+
